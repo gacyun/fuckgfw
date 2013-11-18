@@ -1,5 +1,5 @@
-/tools/ip-pre-up
-/tools/routes.txt
-/tools/ip-down
-/tools/gfwdomains.conf
-/tools/gfwips.lst
+/tools/chnroutes/ip-pre-up
+/tools/chnroutes/routes.txt
+/tools/chnroutes/ip-down
+/tools/gengfwipv4lst/gfwdomains.conf
+/tools/gengfwipv4lst/gfwips.lst
